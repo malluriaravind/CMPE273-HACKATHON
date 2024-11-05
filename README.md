@@ -21,10 +21,6 @@
   - [User Prompt Queue](#user-prompt-queue)
   - [Chat Response](#chat-response)
   - [Response Queue](#response-queue)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 
@@ -194,7 +190,7 @@ An example of the assistant's response to a user query within the chat interface
 User Prompt Queue
 This screenshot shows the messages waiting in the user prompt queue, awaiting processing by the backend.
 
-![Chat Interface](User-Prompt-Queue.png)
+![Chat Interface](user-prompt-queue.png)
 
 
 Response Queue
